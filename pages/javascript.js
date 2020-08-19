@@ -13,6 +13,9 @@ const javascript = () => {
                     nav a {
                         margin:100px;
                     }
+                    p{
+                        text-align:center;
+                    }
                 `}
             </style>
             <nav className="navigation">
@@ -22,6 +25,7 @@ const javascript = () => {
                 <a href="/javascript">JavaScript</a>
             </nav>
             <h1>JavaScript</h1>
+            <p>JavaScript is a scripting language which is used to add behaviour to a webpage.</p>
         </div>
     )
 }
